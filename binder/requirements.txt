@@ -1,0 +1,5 @@
+beautifulsoup4
+html5lib
+jupyterlab
+pyrate-limiter
+requests
